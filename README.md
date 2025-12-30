@@ -15,7 +15,7 @@ This tool is designed for strict document analysis. Unlike standard AI chatbots,
 ## 🛠️ Tech Stack
 
 -   **Frontend:** Streamlit
--   **LLM:** Google Gemini 1.5 Flash
+-   **LLM:** Google Gemini Pro Latest
 -   **Orchestration:** LangChain
 -   **Vector Store:** FAISS (Local CPU indexing)
 -   **Embeddings:** HuggingFace (`all-MiniLM-L6-v2`)
