@@ -1,6 +1,6 @@
 # 🛡️ AI Text Summarizer
 
-A "Zero-Hallucination" Question-Answering application powered by **Google Gemini Pro Latest** and **LangChain**. 
+A "Zero-Hallucination" summarizer and Question-Answering application powered by **Google Gemini Pro Latest** and **LangChain** (RAG Repository). 
 
 This tool is designed for strict document analysis. Unlike standard AI chatbots, it refuses to answer questions if the information is not explicitly found within the uploaded PDF or DOCX file.
 
