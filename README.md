@@ -53,4 +53,4 @@ This tool is designed for strict document analysis. Unlike standard AI chatbots,
 Run the Streamlit application:
 
 ```bash
-streamlit run app.py
+streamlit run textsummarizer.py
